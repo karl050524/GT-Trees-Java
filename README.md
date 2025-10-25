@@ -1,4 +1,4 @@
 # OLIVA, Karl Alfonso G. - C2B
 GT - Trees 
 ## Output
-![ProgramOutput.png](resources/ProgramOutput.png)
+![ProgramOutput.png](images/ProgramOutput.jpg)
